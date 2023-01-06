@@ -1,0 +1,34 @@
+C:\Users\ahmed\source\repos\Rare pearl\Rare pearl\bin\Debug\Rare pearl.exe.config
+C:\Users\ahmed\source\repos\Rare pearl\Rare pearl\bin\Debug\Rare pearl.exe
+C:\Users\ahmed\source\repos\Rare pearl\Rare pearl\bin\Debug\Rare pearl.pdb
+C:\Users\ahmed\source\repos\Rare pearl\Rare pearl\bin\Debug\DevExpress.BonusSkins.v22.2.dll
+C:\Users\ahmed\source\repos\Rare pearl\Rare pearl\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\ahmed\source\repos\Rare pearl\Rare pearl\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\ahmed\source\repos\Rare pearl\Rare pearl\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\ahmed\source\repos\Rare pearl\Rare pearl\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\ahmed\source\repos\Rare pearl\Rare pearl\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\ahmed\source\repos\Rare pearl\Rare pearl\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\ahmed\source\repos\Rare pearl\Rare pearl\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Users\ahmed\source\repos\Rare pearl\Rare pearl\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\ahmed\source\repos\Rare pearl\Rare pearl\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\ahmed\source\repos\Rare pearl\Rare pearl\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\ahmed\source\repos\Rare pearl\Rare pearl\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\ahmed\source\repos\Rare pearl\Rare pearl\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\ahmed\source\repos\Rare pearl\Rare pearl\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\ahmed\source\repos\Rare pearl\Rare pearl\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\ahmed\source\repos\Rare pearl\Rare pearl\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\ahmed\source\repos\Rare pearl\Rare pearl\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\ahmed\source\repos\Rare pearl\Rare pearl\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\ahmed\source\repos\Rare pearl\Rare pearl\obj\Debug\Rare pearl.csproj.AssemblyReference.cache
+C:\Users\ahmed\source\repos\Rare pearl\Rare pearl\obj\Debug\Rare pearl.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmed\source\repos\Rare pearl\Rare pearl\obj\Debug\Rare_pearl.Form1.resources
+C:\Users\ahmed\source\repos\Rare pearl\Rare pearl\obj\Debug\Rare_pearl.pages.AddPage.resources
+C:\Users\ahmed\source\repos\Rare pearl\Rare pearl\obj\Debug\Rare_pearl.pages.HomePage.resources
+C:\Users\ahmed\source\repos\Rare pearl\Rare pearl\obj\Debug\Rare_pearl.pages.searchPage.resources
+C:\Users\ahmed\source\repos\Rare pearl\Rare pearl\obj\Debug\Rare_pearl.Properties.Resources.resources
+C:\Users\ahmed\source\repos\Rare pearl\Rare pearl\obj\Debug\Rare pearl.csproj.GenerateResource.cache
+C:\Users\ahmed\source\repos\Rare pearl\Rare pearl\obj\Debug\Rare pearl.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\Rare pearl\Rare pearl\obj\Debug\Rare pearl.csproj.CopyComplete
+C:\Users\ahmed\source\repos\Rare pearl\Rare pearl\obj\Debug\Rare pearl.exe
+C:\Users\ahmed\source\repos\Rare pearl\Rare pearl\obj\Debug\Rare pearl.pdb
+C:\Users\ahmed\source\repos\Rare pearl\Rare pearl\obj\Debug\Rare_pearl.pages.primaryPage.resources
